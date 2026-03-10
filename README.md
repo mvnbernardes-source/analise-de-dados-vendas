@@ -45,37 +45,37 @@ README.md
 
 ### Vendas por Ano
 
-![Vendas por Ano](images/vendas_por_ano.png)
+![Vendas por Ano](imagens/vendas_por_ano.png)
 
 ---
 
 ### Lucro por Categoria
 
-![Lucro por Categoria](images/lucro_por_categoria.png)
+![Lucro por Categoria](imagens/lucro_por_categoria.png)
 
 ---
 
 ### Vendas por Região
 
-![Vendas por Região](images/vendas_por_regiao.png)
+![Vendas por Região](imagens/vendas_por_regiao.png)
 
 ---
 
 ### Produtos Mais Lucrativos
 
-![Produtos Mais Lucrativos](images/produtos_mais_lucrativos.png)
+![Produtos Mais Lucrativos](imagens/produtos_mais_lucrativos.png)
 
 ---
 
 ### Segmento de Clientes
 
-![Segmento de Clientes](images/segmento_clientes.png)
+![Segmento de Clientes](imagens/segmento_clientes.png)
 
 ---
 
 ### Tempo Médio de Entrega
 
-![Tempo Médio de Entrega](images/tempo_entrega.png)
+![Tempo Médio de Entrega](imagens/tempo_entrega.png)
 
 ---
 
@@ -91,5 +91,6 @@ README.md
 ## 👨‍💻 Autor
 
 Murillo Bernardes
+
 
 
