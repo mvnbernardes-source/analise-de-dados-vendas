@@ -1,0 +1,8 @@
+## Perguntas principais
+
+1. Qual é o total de vendas e lucro por ano?
+2. Quais são os produtos mais lucrativos?
+3. Qual categoria gera mais receita?
+4. Qual região gera mais vendas?
+5. Qual segmento de cliente compra mais?
+6. Qual é o tempo médio de entrega dos pedidos?
