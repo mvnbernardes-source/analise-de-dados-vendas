@@ -42,5 +42,5 @@ ORDER BY total_vendas DESC;
 
 -- 6. Tempo médio de entrega
 SELECT 
-    ROUND(AVG("Delivery Time"), 2) AS tempo_medio_entrega
+    ROUND(AVG(julianday("Ship Date") - julianday("Order Date")), 2) AS tempo_medio_entrega
 FROM sales_data;
