@@ -1,1 +1,8 @@
+*.db
+.venv/
+*.db-journal
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*sqbpro
 
