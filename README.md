@@ -55,7 +55,7 @@ Durante a etapa exploratória foram analisados padrões de distribuição e comp
 
 ![Distribuição do tempo de entrega](imagens/tempo_entrega.png)
 
-![Distribuição das vendas](imagens/distribuicao_vendas.png)
+![Vendas por ano](imagens/vendas_por_ano.png)
 
 ---
 
@@ -82,5 +82,6 @@ Durante a etapa exploratória foram analisados padrões de distribuição e comp
 # 👨‍💻 Autor
 
 Murillo Bernardes
+
 
 
