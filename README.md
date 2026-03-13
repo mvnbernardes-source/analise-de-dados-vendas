@@ -53,9 +53,9 @@ README.md
 
 Durante a etapa exploratória foram analisados padrões de distribuição e comportamento das variáveis.
 
-![Distribuição do tempo de entrega](images/tempo_entrega.png)
+![Distribuição do tempo de entrega](imagens/tempo_entrega.png)
 
-![Distribuição das vendas](images/distribuicao_vendas.png)
+![Distribuição das vendas](imagens/distribuicao_vendas.png)
 
 ---
 
@@ -82,4 +82,5 @@ Durante a etapa exploratória foram analisados padrões de distribuição e comp
 # 👨‍💻 Autor
 
 Murillo Bernardes
+
 
